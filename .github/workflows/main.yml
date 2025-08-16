@@ -1,3 +1,6 @@
+permissions:
+  contents: write
+  workflows: write
 name: 'Update schedule'
 
 on:
